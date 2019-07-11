@@ -29,7 +29,7 @@ window.onload = function init() {
 };
 
 
-var mainLoop = function(time){
+var mainLoop = function(){
     // Main function, called each frame
     //measureFPS(time);
     // Clear the canvas
